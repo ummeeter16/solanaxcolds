@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "4BvuXUU8sLjpN6uvCk9RrqMFsDdknUuCiw6xk6Du6VoF",
+    "candyGuard": "",
+    "candyMachineCreator": "FJ4hv7bT2uwZ9SczDW4VDEhmGFnpt4pD4LRDU31g6cvr",
+    "collectionMint": "EBxNzEvUM4YN4MMfCaqxHKKKN1Ho1BEbdN5ewx9qyanM"
+  },
+  "items": {
+    "-1": {
+      "name": "COLDS CHALLENGE #9",
+      "image_hash": "08dbb384dd5adb0af00664a6ce06ad46c3d5004c9261a3161d1b1fd8ccdf567b",
+      "image_link": "https://arweave.net/Pj8Gg_mmFEwVEWxnzam3TcJkE3lju3yuZHAB4ysn6VU?ext=png",
+      "metadata_hash": "9bd313fed66fc7bf9013c00ac4edd3f64a81b72303058828b513f32cae45b203",
+      "metadata_link": "https://arweave.net/-Nzt6IO7egXVXwNROW8wTGa2IFDJU5wQJeRLa2-bGKE",
+      "onChain": true
+    },
+    "0": {
+      "name": "COLDS CHALLLENGE NINE",
+      "image_hash": "8ba1e6a585450485f23ba5f2fa87059ccca862be37752588f95dea5ca313017a",
+      "image_link": "https://arweave.net/6guiaeWk4MuAe5d34-9fGv1-ZwhJJX8NJWqlYFByLv0?ext=png",
+      "metadata_hash": "6752bdf08106306f201dda9d47733b42307185e9951d1542ae0f3a5defad1199",
+      "metadata_link": "https://arweave.net/IQ5zpCs2hYQbJytfec2hCIrcV_NbD4dOaLPvM9kMMs8",
+      "onChain": true
+    },
+    "1": {
+      "name": "COLDS CHALLLENGE NINE",
+      "image_hash": "80ed418f5f4ac52bfc9ab8ac37e16f052fba4b58e58cd0441fda1c477c61cd25",
+      "image_link": "https://arweave.net/pX3cAeC1FwGhv2LqZWniO66zBDy7FAGD4_iRCBqr0xM?ext=png",
+      "metadata_hash": "ea3ed1521c2dc6b2c33878b467e0e350a6de3ff77927272a8d800c58ad9caaa3",
+      "metadata_link": "https://arweave.net/87IR-HA3b7pmWR77pL1_Y1c2LBH6VKGtE5UV-Zoi7Os",
+      "onChain": true
+    }
+  }
+}
